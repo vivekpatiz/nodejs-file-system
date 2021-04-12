@@ -1,0 +1,32 @@
+{
+    "student1":{
+        "name": "Saran",
+        "batch": "A",
+        "class": "10"
+    },
+    "student2":{
+        "name": "Ramesh",
+        "batch": "B",
+        "class": "10"
+    },
+    "student3":{
+        "name": "Suresh",
+        "batch": "A",
+        "class": "10"
+    },
+    "student4":{
+        "name": "Sneha",
+        "batch": "B",
+        "class": "10"
+    },
+    "student":{
+        "name": "Baskar",
+        "batch": "A",
+        "class": "10"
+    },
+    "student5":{
+        "name": "Eswar",
+        "batch": "B",
+        "class": "10"
+    }
+}
